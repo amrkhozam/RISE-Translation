@@ -2193,698 +2193,698 @@ $lang["staff_default_dashboard_help_message"] = "سيحل هذا محل لوحة
 
 /* Version 3.2 */
 
-$lang["reminder"] = "Reminder";
-$lang["reminders"] = "Reminders";
-$lang["show_all_reminders"] = "Show all reminders";
-$lang["time"] = "Time";
-$lang["add_reminder"] = "Add reminder";
-$lang["delete_reminder"] = "Delete reminder";
-$lang["snooze"] = "Snooze";
-$lang["dismiss"] = "Dismiss";
-$lang["snooze_length"] = "Snooze length";
-$lang["minutes"] = "Minutes";
-$lang["reminder_sound_volume"] = "Reminder sound volume";
-$lang["reminder_details"] = "Reminder details";
-$lang["mark_as_done"] = "Mark as done";
-$lang["client_can_create_reminders"] = "Client can create reminders?";
+$lang["reminder"] = "تذكير";
+$lang["reminders"] = "تذكيرات";
+$lang["show_all_reminders"] = "عرض كل التذكيرات";
+$lang["time"] = "الوقت";
+$lang["add_reminder"] = "إضافة تذكير";
+$lang["delete_reminder"] = "حذف تذكير";
+$lang["snooze"] = "غفوة";
+$lang["dismiss"] = "رفض";
+$lang["snooze_length"] = "مدة الغفوة";
+$lang["minutes"] = "دقائق";
+$lang["reminder_sound_volume"] = "حجم صوت التذكير";
+$lang["reminder_details"] = "تفاصيل التذكير";
+$lang["mark_as_done"] = "وضع علامة كمكتمل";
+$lang["client_can_create_reminders"] = "هل يمكن للعميل إنشاء تذكيرات؟";
 
-$lang["php_file_format_is_not_allowed"] = "PHP file format is not allowed!";
+$lang["php_file_format_is_not_allowed"] = "صيغة ملف PHP غير مسموح بها!";
 
-$lang["projects_overview"] = "Projects Overview";
-$lang["progression"] = "Progression";
+$lang["projects_overview"] = "نظرة عامة على المشاريع";
+$lang["progression"] = "التقدم";
 
-$lang["this_year"] = "This Year";
-$lang["last_year"] = "Last Year";
-$lang["last_12_months"] = "Last 12 months";
+$lang["this_year"] = "هذا العام";
+$lang["last_year"] = "العام الماضي";
+$lang["last_12_months"] = "آخر 12 شهرًا";
 
-$lang["estimate_sent_statistics"] = "Estimate sent statistics";
+$lang["estimate_sent_statistics"] = "إحصائيات إرسال العروض";
 
-$lang["title_language_key"] = "Title Language Key";
-$lang["placeholder_language_key"] = "Placeholder Language Key";
-$lang["keep_it_blank_if_you_do_not_use_translation"] = "Keep it blank if you don't use translation";
-$lang["language_key_recommendation_help_text"] = "Recommended to use any prefix like custom_field_";
+$lang["title_language_key"] = "مفتاح لغة العنوان";
+$lang["placeholder_language_key"] = "مفتاح لغة العنصر النائب";
+$lang["keep_it_blank_if_you_do_not_use_translation"] = "اتركه فارغًا إذا لم تستخدم الترجمة";
+$lang["language_key_recommendation_help_text"] = "يوصى باستخدام أي بادئة مثل custom_field_";
 
-$lang["other"] = "Other";
+$lang["other"] = "أخرى";
 
-$lang["print_estimate"] = "Print estimate";
+$lang["print_estimate"] = "طباعة العرض";
 
-$lang["the_person_who_will_manage_this_client"] = "The person who'll manage this client.";
-$lang["the_person_who_will_manage_this_lead"] = "The person who'll manage this lead.";
+$lang["the_person_who_will_manage_this_client"] = "الشخص الذي سيدير هذا العميل.";
+$lang["the_person_who_will_manage_this_lead"] = "الشخص الذي سيدير هذا العميل المحتمل.";
 
-$lang["language_key"] = "Language Key";
-$lang["left_menu_language_key_recommendation_help_text"] = "Recommended to use any prefix like left_menu_";
+$lang["language_key"] = "مفتاح اللغة";
+$lang["left_menu_language_key_recommendation_help_text"] = "يوصى باستخدام أي بادئة مثل left_menu_";
 
-$lang["project_type"] = "Project type";
-$lang["client_project"] = "Client Project";
-$lang["internal_project"] = "Internal Project";
+$lang["project_type"] = "نوع المشروع";
+$lang["client_project"] = "مشروع عميل";
+$lang["internal_project"] = "مشروع داخلي";
 
-$lang["contact_info"] = "Contact info";
-$lang["type"] = "Type";
-$lang["organization"] = "Organization";
-$lang["person"] = "Person";
+$lang["contact_info"] = "معلومات الاتصال";
+$lang["type"] = "النوع";
+$lang["organization"] = "المؤسسة";
+$lang["person"] = "شخص";
 
-$lang["last_announcement"] = "Last announcement";
-$lang["no_announcement_yet"] = "No announcement yet!";
+$lang["last_announcement"] = "آخر إعلان";
+$lang["no_announcement_yet"] = "لا يوجد إعلان بعد!";
 
-$lang["team_members_overview"] = "Team Members Overview";
-$lang["on_leave_today"] = "On leave today";
+$lang["team_members_overview"] = "نظرة عامة على أعضاء الفريق";
+$lang["on_leave_today"] = "في إجازة اليوم";
 
-$lang["enable_embedded_form_to_get_leads"] = "Enable embedded form to get leads";
-$lang["please_submit_the_form"] = "Please submit the form";
-$lang["show_in_embedded_form"] = "Show in embedded form";
+$lang["enable_embedded_form_to_get_leads"] = "تمكين النموذج المضمن للحصول على العملاء المحتملين";
+$lang["please_submit_the_form"] = "يرجى إرسال النموذج";
+$lang["show_in_embedded_form"] = "إظهار في النموذج المضمن";
 
-$lang["after_submit"] = "After submit";
-$lang["return_json_response"] = "Return json response";
-$lang["show_text_result"] = "Show text result";
-$lang["redirect_to_this_url"] = "Redirect to this url:";
+$lang["after_submit"] = "بعد الإرسال";
+$lang["return_json_response"] = "إرجاع استجابة JSON";
+$lang["show_text_result"] = "إظهار نتيجة النص";
+$lang["redirect_to_this_url"] = "إعادة التوجيه إلى هذا الرابط:";
 
-$lang["yes_only_own_timelogs"] = "Yes, only own timelogs";
-$lang["yes_only_own_project_members"] = "Yes, only own project members";
-$lang["excluding_his_her_timelogs"] = "Excluding his/her own timelogs";
-$lang["can_add_own_timelogs_only"] = "Can add own timelogs only";
+$lang["yes_only_own_timelogs"] = "نعم، فقط سجلات الوقت الخاصة";
+$lang["yes_only_own_project_members"] = "نعم، فقط أعضاء المشروع الخاصين";
+$lang["excluding_his_her_timelogs"] = "باستثناء سجلات الوقت الخاصة به/بها";
+$lang["can_add_own_timelogs_only"] = "يمكن إضافة سجلات الوقت الخاصة فقط";
 
-$lang["all_tasks_overview"] = "All Tasks Overview";
+$lang["all_tasks_overview"] = "نظرة عامة على جميع المهام";
 
-$lang["invoice_overview"] = "Invoice Overview";
+$lang["invoice_overview"] = "نظرة عامة على الفواتير";
 
-$lang["next_reminder"] = "Next reminder";
+$lang["next_reminder"] = "التذكير التالي";
 
-$lang["new_tickets_in_last_30_days"] = "New tickets in last 30 days";
+$lang["new_tickets_in_last_30_days"] = "تذاكر جديدة في آخر 30 يومًا";
 
-$lang["individual"] = "Individual";
+$lang["individual"] = "فردي";
 
-$lang["total_after_discount"] = "Total After Discount";
+$lang["total_after_discount"] = "المجموع بعد الخصم";
 
 /* Version 3.3 */
 
-$lang["change_the_tasks_start_date_and_deadline_based_on_project_start_date"] = "Change the tasks start date and deadline based on project start date";
+$lang["change_the_tasks_start_date_and_deadline_based_on_project_start_date"] = "تغيير تاريخ بدء المهام والموعد النهائي بناءً على تاريخ بدء المشروع";
 
-$lang["can_edit_only_own_created_projects"] = "Can edit only own created projects";
-$lang["can_delete_only_own_created_projects"] = "Can delete only own created projects";
+$lang["can_edit_only_own_created_projects"] = "يمكن تعديل المشاريع التي تم إنشاؤها فقط";
+$lang["can_delete_only_own_created_projects"] = "يمكن حذف المشاريع التي تم إنشاؤها فقط";
 
-$lang["checklist_status"] = "Checklist status";
+$lang["checklist_status"] = "حالة قائمة التحقق";
 
 /* Version 3.4 */
 
-$lang["subscribe"] = "Subscribe";
-$lang["email_protocol"] = "Email protocol";
+$lang["subscribe"] = "اشتراك";
+$lang["email_protocol"] = "بروتوكول البريد الإلكتروني";
 
-$lang["please_enable_the_file_uploads_php_settings"] = "Please enable the file_uploads php setting in the server.";
-$lang["file_size_too_large"] = "File size is too large. Please increase the upload_max_filesize from server.";
+$lang["please_enable_the_file_uploads_php_settings"] = "يرجى تمكين إعداد file_uploads php في الخادم.";
+$lang["file_size_too_large"] = "حجم الملف كبير جدًا. يرجى زيادة upload_max_filesize من الخادم.";
 
-$lang["sub_task_status"] = "Sub task status";
+$lang["sub_task_status"] = "حالة المهمة الفرعية";
 
-$lang["can_access_client_feedback_in_projects"] = "Can access client feedback in projects?";
-$lang["change_the_milestone_dates_based_on_project_start_date"] = "Change the milestone dates based on project start date";
+$lang["can_access_client_feedback_in_projects"] = "هل يمكن الوصول إلى ملاحظات العميل في المشاريع؟";
+$lang["change_the_milestone_dates_based_on_project_start_date"] = "تغيير تواريخ المعالم بناءً على تاريخ بدء المشروع";
 
-$lang["send_first_due_invoice_reminder_notification_before"] = "Send 1st due invoice reminder before due date";
-$lang["send_second_due_invoice_reminder_notification_before"] = "Send 2nd due invoice reminder before due date";
+$lang["send_first_due_invoice_reminder_notification_before"] = "إرسال تذكير أول للفاتورة المستحقة قبل تاريخ الاستحقاق";
+$lang["send_second_due_invoice_reminder_notification_before"] = "إرسال تذكير ثانٍ للفاتورة المستحقة قبل تاريخ الاستحقاق";
 
-$lang["send_first_invoice_overdue_reminder_after"] = "Send 1st invoice overdue reminder after";
-$lang["send_second_invoice_overdue_reminder_after"] = "Send 2nd invoice overdue reminder after";
+$lang["send_first_invoice_overdue_reminder_after"] = "إرسال تذكير أول للفاتورة المتأخرة بعد";
+$lang["send_second_invoice_overdue_reminder_after"] = "إرسال تذكير ثانٍ للفاتورة المتأخرة بعد";
 
-$lang["product"] = "Product";
+$lang["product"] = "المنتج";
 
-$lang["subscription_id"] = "Subscription ID";
-$lang["subscription_sent_message"] = "The subscription has been sent!";
-$lang["add_subscription"] = "Add subscription";
-$lang["edit_subscription"] = "Edit subscription";
-$lang["delete_subscription"] = "Delete subscription";
-$lang["subscription"] = "Subscription";
-$lang["subscriptions"] = "Subscriptions";
-$lang["subscription_value"] = "Subscription Value";
-$lang["subscription_items"] = "Subscription items";
-$lang["email_subscription_to_client"] = "Email subscription to client";
-$lang["send_subscription"] = "Send subscription";
-$lang["subscription_settings"] = "Subscription Settings";
-$lang["subscription_prefix"] = "Subscription prefix";
-$lang["initial_number_of_the_subscription"] = "Initial number of the subscription";
-$lang["can_access_subscriptions"] = "Can access subscriptions?";
-$lang["show_in_subscription"] = "Show in subscription";
-$lang["subscription_total"] = "Subscription total";
-$lang["start_subscription"] = "Start subscription";
+$lang["subscription_id"] = "معرف الاشتراك";
+$lang["subscription_sent_message"] = "تم إرسال الاشتراك!";
+$lang["add_subscription"] = "إضافة اشتراك";
+$lang["edit_subscription"] = "تعديل الاشتراك";
+$lang["delete_subscription"] = "حذف الاشتراك";
+$lang["subscription"] = "الاشتراك";
+$lang["subscriptions"] = "الاشتراكات";
+$lang["subscription_value"] = "قيمة الاشتراك";
+$lang["subscription_items"] = "عناصر الاشتراك";
+$lang["email_subscription_to_client"] = "إرسال الاشتراك بالبريد الإلكتروني إلى العميل";
+$lang["send_subscription"] = "إرسال الاشتراك";
+$lang["subscription_settings"] = "إعدادات الاشتراك";
+$lang["subscription_prefix"] = "بادئة الاشتراك";
+$lang["initial_number_of_the_subscription"] = "الرقم الأولي للاشتراك";
+$lang["can_access_subscriptions"] = "هل يمكن الوصول إلى الاشتراكات؟";
+$lang["show_in_subscription"] = "إظهار في الاشتراك";
+$lang["subscription_total"] = "إجمالي الاشتراك";
+$lang["start_subscription"] = "بدء الاشتراك";
 
-$lang["subscription_success_message"] = "You're subscription has been started successfully.";
+$lang["subscription_success_message"] = "لقد تم بدء اشتراكك بنجاح.";
 
-$lang["enable_stripe_subscription"] = "Enable Stripe subscription";
-$lang["please_enable_the_stripe_payment_method_first"] = "Please enable the stripe payment method first!";
-$lang["tax_mapping"] = "Tax mapping";
-$lang["mapped"] = "Mapped";
-$lang["select_stripe_tax"] = "Select Stripe tax";
-$lang["stripe_price_error_message"] = "App subscription price and recurring interval should be same as stripe product price and interval.";
-$lang["stripe_tax_error_message"] = "Some taxes are not mapped with stripe yet. Please map the taxes from the subscription settings.";
-$lang["payment_status"] = "Payment status";
-$lang["failed"] = "Failed";
-$lang["next_billing_date"] = "Next billing date";
-$lang["cancel_subscription"] = "Cancel subscription";
+$lang["enable_stripe_subscription"] = "تمكين اشتراك Stripe";
+$lang["please_enable_the_stripe_payment_method_first"] = "يرجى تمكين طريقة الدفع Stripe أولاً!";
+$lang["tax_mapping"] = "تعيين الضريبة";
+$lang["mapped"] = "معين";
+$lang["select_stripe_tax"] = "تحديد ضريبة Stripe";
+$lang["stripe_price_error_message"] = "يجب أن يكون سعر اشتراك التطبيق والفاصل الزمني المتكرر هو نفسه سعر منتج Stripe والفاصل الزمني.";
+$lang["stripe_tax_error_message"] = "لم يتم تعيين بعض الضرائب مع Stripe بعد. يرجى تعيين الضرائب من إعدادات الاشتراك.";
+$lang["payment_status"] = "حالة الدفع";
+$lang["failed"] = "فشل";
+$lang["next_billing_date"] = "تاريخ الفوترة التالي";
+$lang["cancel_subscription"] = "إلغاء الاشتراك";
 
-$lang["invoice_number"] = "Invoice number";
-$lang["estimate_number"] = "Estimate number";
-$lang["order_number"] = "Order number";
+$lang["invoice_number"] = "رقم الفاتورة";
+$lang["estimate_number"] = "رقم العرض";
+$lang["order_number"] = "رقم الطلب";
 
-$lang["client_can_access_notes"] = "Client can access notes?";
+$lang["client_can_access_notes"] = "هل يمكن للعميل الوصول إلى الملاحظات؟";
 
-$lang["my_tasks_overview"] = "My Tasks Overview";
+$lang["my_tasks_overview"] = "نظرة عامة على مهامي";
 
-$lang["leads_overview"] = "Leads Overview";
-$lang["converted_to_client"] = "Converted to client";
+$lang["leads_overview"] = "نظرة عامة على العملاء المحتملين";
+$lang["converted_to_client"] = "تحويل إلى عميل";
 
-$lang["remember_to_add_this_urls_in_authorized_redirect_uri"] = "Remember to add this urls in Authorized redirect uri";
+$lang["remember_to_add_this_urls_in_authorized_redirect_uri"] = "تذكر إضافة هذه الروابط في معرف URI لإعادة التوجيه المصرح به";
 
-$lang["merge"] = "Merge";
-$lang["move_all_comments_or_notes_from"] = "Move all comments/notes from";
-$lang["moved_to"] = "Moved to";
+$lang["merge"] = "دمج";
+$lang["move_all_comments_or_notes_from"] = "نقل جميع التعليقات/الملاحظات من";
+$lang["moved_to"] = "تم النقل إلى";
 
-$lang["ok"] = "OK";
-$lang["app"] = "App";
-$lang["stripe"] = "Stripe";
-$lang["activate_as_stripe_subscription"] = "Activate as Stripe subscription";
-$lang["activate_as_internal_subscription"] = "Activate as internal subscription";
-$lang["activate_as_stripe_subscription_message_1"] = "Please map the stripe product and price with this subscription. You can add the stripe products and prices from your stripe dashboard.";
-$lang["activate_as_stripe_subscription_message_2"] = "The client will get a request to add the payment method with this subscription. Once the client submit the payment method, this subscription will be activated and auto payment will be enabled via stripe.";
-$lang["activate_as_internal_subscription_message_1"] = "This subscription will be managed by app. The invoices will be created based on the subscription terms.";
-$lang["activate_as_internal_subscription_message_2"] = "Note: Payments will not be done automatically. For automated payment, you can use the stripe subscription.";
-$lang["subscription_toatl_can_not_empty_message"] = "Subscription total can't be 0.";
+$lang["ok"] = "موافق";
+$lang["app"] = "التطبيق";
+$lang["stripe"] = "سترايب";
+$lang["activate_as_stripe_subscription"] = "تنشيط كاشتراك Stripe";
+$lang["activate_as_internal_subscription"] = "تنشيط كاشتراك داخلي";
+$lang["activate_as_stripe_subscription_message_1"] = "يرجى ربط منتج Stripe والأسعار بهذا الاشتراك. يمكنك إضافة منتجات Stripe وأسعارها من لوحة تحكم Stripe الخاصة بك.";
+$lang["activate_as_stripe_subscription_message_2"] = "سيتلقى العميل طلبًا لإضافة طريقة الدفع لهذا الاشتراك. بمجرد أن يقدم العميل طريقة الدفع، سيتم تنشيط هذا الاشتراك وسيتم تمكين الدفع التلقائي عبر Stripe.";
+$lang["activate_as_internal_subscription_message_1"] = "سيتم إدارة هذا الاشتراك بواسطة التطبيق. سيتم إنشاء الفواتير بناءً على شروط الاشتراك.";
+$lang["activate_as_internal_subscription_message_2"] = "ملاحظة: لن تتم الدفعات تلقائيًا. للدفع التلقائي، يمكنك استخدام اشتراك Stripe.";
+$lang["subscription_toatl_can_not_empty_message"] = "إجمالي الاشتراك لا يمكن أن يكون 0.";
 
-$lang["subscription_request_sent"] = "Subscription request sent";
-$lang["notification_subscription_request_sent"] = "New subscription request";
+$lang["subscription_request_sent"] = "تم إرسال طلب الاشتراك";
+$lang["notification_subscription_request_sent"] = "طلب اشتراك جديد";
 
-$lang["first_billing_date"] = "First billing date";
-$lang["first_billing_date_cant_be_past_message"] = "First billing date can’t be past. Keep it blank to use the date when the client will subscribe.";
+$lang["first_billing_date"] = "تاريخ الفوترة الأول";
+$lang["first_billing_date_cant_be_past_message"] = "لا يمكن أن يكون تاريخ الفوترة الأول في الماضي. اتركه فارغًا لاستخدام التاريخ الذي سيشترك فيه العميل.";
 
-$lang["gst_number"] = "GST Number";
+$lang["gst_number"] = "رقم ضريبة السلع والخدمات";
 
-$lang["announcement_created"] = "Announcement created";
+$lang["announcement_created"] = "تم إنشاء إعلان";
 
-$lang["company_logo"] = "Company Logo";
+$lang["company_logo"] = "شعار الشركة";
 
-$lang["task_commented"] = "Task commented";
-$lang["task_assigned"] = "Task assigned";
-$lang["task_general"] = "Task general";
+$lang["task_commented"] = "تم التعليق على المهمة";
+$lang["task_assigned"] = "تم تعيين المهمة";
+$lang["task_general"] = "مهمة عامة";
 
 /* Version 3.5 */
 
-$lang["visitors_can_see_store_before_login"] = "Visitors can see store before login";
-$lang["show_payment_option_after_submitting_the_order"] = "Show payment option after submitting the order";
-$lang["accept_order_before_login"] = "Accept order before login";
-$lang["proceed_to_payment"] = "Proceed to payment";
-$lang["pay_order"] = "Pay order";
-$lang["order_status_after_payment"] = "Order status after payment";
-$lang["store_settings"] = "Store settings";
-$lang["banner_image_on_public_store"] = "Banner image on public store";
-$lang["your_order_has_been_submitted"] = "Your order has been submitted.";
+$lang["visitors_can_see_store_before_login"] = "يمكن للزوار رؤية المتجر قبل تسجيل الدخول";
+$lang["show_payment_option_after_submitting_the_order"] = "إظهار خيار الدفع بعد تقديم الطلب";
+$lang["accept_order_before_login"] = "قبول الطلب قبل تسجيل الدخول";
+$lang["proceed_to_payment"] = "المتابعة للدفع";
+$lang["pay_order"] = "دفع الطلب";
+$lang["order_status_after_payment"] = "حالة الطلب بعد الدفع";
+$lang["store_settings"] = "إعدادات المتجر";
+$lang["banner_image_on_public_store"] = "صورة بانر في المتجر العام";
+$lang["your_order_has_been_submitted"] = "تم تقديم طلبك.";
 
-$lang["re_captcha_error-timeout-or-duplicate"] = "The reCAPTCHA has been expired or duplicate. Please reload the page.";
+$lang["re_captcha_error-timeout-or-duplicate"] = "انتهت صلاحية reCAPTCHA أو تم تكرارها. يرجى إعادة تحميل الصفحة.";
 
-$lang["related_to"] = "Related to";
+$lang["related_to"] = "متعلق بـ";
 
-$lang["hide_from_non_project_related_tasks"] = "Hide from non-project related tasks";
-$lang["add_task_in_project"] = "Add task in project";
+$lang["hide_from_non_project_related_tasks"] = "إخفاء من المهام غير المتعلقة بالمشروع";
+$lang["add_task_in_project"] = "إضافة مهمة في المشروع";
 
-$lang["general_task"] = "General task";
-$lang["general_task_created"] = "General task created";
-$lang["general_task_updated"] = "General task updated";
-$lang["general_task_assigned"] = "General task assigned";
-$lang["general_task_started"] = "General task started";
-$lang["general_task_finished"] = "General task finished";
-$lang["general_task_reopened"] = "General task reopened";
-$lang["general_task_deleted"] = "General task deleted";
-$lang["general_task_commented"] = "General task commented";
+$lang["general_task"] = "مهمة عامة";
+$lang["general_task_created"] = "تم إنشاء مهمة عامة";
+$lang["general_task_updated"] = "تم تحديث مهمة عامة";
+$lang["general_task_assigned"] = "تم تعيين مهمة عامة";
+$lang["general_task_started"] = "تم بدء مهمة عامة";
+$lang["general_task_finished"] = "تم إنهاء مهمة عامة";
+$lang["general_task_reopened"] = "تم إعادة فتح مهمة عامة";
+$lang["general_task_deleted"] = "تم حذف مهمة عامة";
+$lang["general_task_commented"] = "تم التعليق على مهمة عامة";
 
-$lang["notification_general_task_created"] = "Created a new task.";
-$lang["notification_general_task_updated"] = "Updated a task.";
-$lang["notification_general_task_assigned"] = "Assigned a task to %s."; //Assigned a task to Mr. X
-$lang["notification_general_task_started"] = "Started a task.";
-$lang["notification_general_task_finished"] = "Finished a task.";
-$lang["notification_general_task_reopened"] = "Reopened a task.";
-$lang["notification_general_task_deleted"] = "Deleted a task.";
-$lang["notification_general_task_commented"] = "Commented on a task.";
+$lang["notification_general_task_created"] = "تم إنشاء مهمة جديدة.";
+$lang["notification_general_task_updated"] = "تم تحديث مهمة.";
+$lang["notification_general_task_assigned"] = "تم تعيين مهمة لـ %s."; //Assigned a task to Mr. X
+$lang["notification_general_task_started"] = "تم بدء مهمة.";
+$lang["notification_general_task_finished"] = "تم إنهاء مهمة.";
+$lang["notification_general_task_reopened"] = "تم إعادة فتح مهمة.";
+$lang["notification_general_task_deleted"] = "تم حذف مهمة.";
+$lang["notification_general_task_commented"] = "تم التعليق على مهمة.";
 
-$lang["bookmark"] = "Bookmark";
-$lang["bookmark_icon"] = "Bookmark Icon";
-$lang["change_filters"] = "Change filters";
-$lang["manage_filters"] = "Manage Filters";
-$lang["new_filter"] = "New filter";
-$lang["update_filter"] = "Update filter";
-$lang["add_new_filter"] = "Add new filter";
-$lang["show_time_with_task_start_date_and_deadline"] = "Show time with task start date and deadline";
+$lang["bookmark"] = "إشارة مرجعية";
+$lang["bookmark_icon"] = "أيقونة الإشارة المرجعية";
+$lang["change_filters"] = "تغيير الفلاتر";
+$lang["manage_filters"] = "إدارة الفلاتر";
+$lang["new_filter"] = "فلتر جديد";
+$lang["update_filter"] = "تحديث الفلتر";
+$lang["add_new_filter"] = "إضافة فلتر جديد";
+$lang["show_time_with_task_start_date_and_deadline"] = "إظهار الوقت مع تاريخ بدء المهمة والموعد النهائي";
 
-$lang["save_and_continue_to_login_for_payment"] = "Save & continue to login for payment";
-$lang["public_store_page_setting_help_message"] = "You can set the store as landing page by adding 'store' in the landing page setting.";
-$lang["public_store_page_setting_permission_error_message"] = "Please enable the store access permission for clients.";
-$lang["order_status_after_payment_help_message"] = "This will be applicable only when the order status is";
+$lang["save_and_continue_to_login_for_payment"] = "حفظ ومتابعة تسجيل الدخول للدفع";
+$lang["public_store_page_setting_help_message"] = "يمكنك تعيين المتجر كصفحة هبوط عن طريق إضافة 'store' في إعدادات صفحة الهبوط.";
+$lang["public_store_page_setting_permission_error_message"] = "الرجاء تمكين إذن الوصول إلى المتجر للعملاء.";
+$lang["order_status_after_payment_help_message"] = "سيكون هذا ساريًا فقط عندما تكون حالة الطلب";
 
-$lang["subscription_first_billing_date_error_message"] = "The first billing date should be before the next billing date based on the billing period!";
-$lang["client_currency_not_editable_message"] = "The currency is not editable when there is any invoice, estimate, order, proposal, contract or subscription.";
+$lang["subscription_first_billing_date_error_message"] = "يجب أن يكون تاريخ الفوترة الأول قبل تاريخ الفوترة التالي بناءً على فترة الفوترة!";
+$lang["client_currency_not_editable_message"] = "العملة غير قابلة للتعديل عند وجود أي فاتورة أو تقدير أو طلب أو عرض أو عقد أو اشتراك.";
 
-$lang["subscription_started"] = "Subscription started";
-$lang["notification_subscription_started"] = "Started a subscription.";
+$lang["subscription_started"] = "بدء الاشتراك";
+$lang["notification_subscription_started"] = "تم بدء اشتراك.";
 
-$lang["subscription_invoice_created_via_cron_job"] = "Subscription invoice created via Cron Job";
-$lang["notification_subscription_invoice_created_via_cron_job"] = "New invoice generated from subscription.";
+$lang["subscription_invoice_created_via_cron_job"] = "تم إنشاء فاتورة الاشتراك عبر مهمة Cron";
+$lang["notification_subscription_invoice_created_via_cron_job"] = "فاتورة جديدة تم إنشاؤها من الاشتراك.";
 
-$lang["create_credit_note"] = "Create credit note";
-$lang["create_credit_note_message"] = "Are you sure? You're going to fully credit this invoice. A credit note will be created for this invoice.";
-$lang["credited"] = "Credited";
-$lang["credit_note"] = "Credit Note";
-$lang["email_credit_note_to_client"] = "Email credit note to client";
-$lang["main_invoice"] = "Main invoice";
-$lang["credit_note_id"] = "Credit note ID";
-$lang["send_credit_note"] = "Send credit note";
+$lang["create_credit_note"] = "إنشاء إشعار دائن";
+$lang["create_credit_note_message"] = "هل أنت متأكد؟ ستقوم بتسوية هذه الفاتورة بالكامل. سيتم إنشاء إشعار دائن لهذه الفاتورة.";
+$lang["credited"] = "مقيد كدائن";
+$lang["credit_note"] = "إشعار دائن";
+$lang["email_credit_note_to_client"] = "إرسال إشعار دائن بالبريد الإلكتروني للعميل";
+$lang["main_invoice"] = "الفاتورة الرئيسية";
+$lang["credit_note_id"] = "معرف إشعار الدائن";
+$lang["send_credit_note"] = "إرسال إشعار دائن";
 
-$lang["taxable"] = "Taxable";
+$lang["taxable"] = "خاضع للضريبة";
 
-$lang["can_manage_team_members_notes"] = "Can manage team member's notes?";
-$lang["team_members_can_not_see_own_notes"] = "Team members can't see own notes.";
+$lang["can_manage_team_members_notes"] = "هل يمكن إدارة ملاحظات أعضاء الفريق؟";
+$lang["team_members_can_not_see_own_notes"] = "لا يمكن لأعضاء الفريق رؤية ملاحظاتهم الخاصة.";
 
-$lang["articles_order"] = "Articles order";
-$lang["top_menu"] = "Top menu";
-$lang["edit_top_menu"] = "Edit top menu";
+$lang["articles_order"] = "ترتيب المقالات";
+$lang["top_menu"] = "القائمة العلوية";
+$lang["edit_top_menu"] = "تعديل القائمة العلوية";
 
-$lang["top_menu_description_message"] = "This menu will be visible only in the public pages";
-$lang["enable_top_menu"] = "Enable top menu";
-$lang["menu_items"] = "Menu items";
+$lang["top_menu_description_message"] = "هذه القائمة ستكون مرئية فقط في الصفحات العامة";
+$lang["enable_top_menu"] = "تمكين القائمة العلوية";
+$lang["menu_items"] = "عناصر القائمة";
 
-$lang["landing_page"] = "Landing page";
-$lang["landing_page_help_text"] = "Normally keep it blank. Set this value only if you want any custom landing page. (Example value: knowledge_base)";
+$lang["landing_page"] = "صفحة الهبوط";
+$lang["landing_page_help_text"] = "عادةً ما تُترك فارغة. قم بتعيين هذه القيمة فقط إذا كنت تريد أي صفحة هبوط مخصصة. (مثال: knowledge_base)";
 
-$lang["fixed_amount_discount_before_tax_error_message"] = "Fixed amount discount can't be added before tax.";
+$lang["fixed_amount_discount_before_tax_error_message"] = "لا يمكن إضافة خصم بمبلغ ثابت قبل الضريبة.";
 
-$lang["invoices_summary"] = "Invoices summary";
-$lang["estimates_summary"] = "Estimates summary";
-$lang["leads_summary"] = "Leads summary";
-$lang["orders_summary"] = "Orders summary";
-$lang["estimate_request_summary"] = "Estimate request summary";
-$lang["proposals_summary"] = "Proposals summary";
-$lang["expenses_summary"] = "Expenses summary";
-$lang["monthly_summary"] = "Monthly summary";
+$lang["invoices_summary"] = "ملخص الفواتير";
+$lang["estimates_summary"] = "ملخص العروض";
+$lang["leads_summary"] = "ملخص العملاء المحتملين";
+$lang["orders_summary"] = "ملخص الطلبات";
+$lang["estimate_request_summary"] = "ملخص طلبات العروض";
+$lang["proposals_summary"] = "ملخص المقترحات";
+$lang["expenses_summary"] = "ملخص المصروفات";
+$lang["monthly_summary"] = "ملخص شهري";
 
-$lang["yearly_chart"] = "Yearly chart";
-$lang["category_chart"] = "Category chart";
+$lang["yearly_chart"] = "مخطط سنوي";
+$lang["category_chart"] = "مخطط الفئة";
 
-$lang["count"] = "Count";
-$lang["invoice_total"] = "Invoice total";
-$lang["order_total"] = "Order total";
+$lang["count"] = "العدد";
+$lang["invoice_total"] = "إجمالي الفاتورة";
+$lang["order_total"] = "إجمالي الطلب";
 
-$lang["last_7_days"] = "Last 7 Days";
-$lang["next_7_days"] = "Next 7 Days";
-$lang["last_30_days"] = "Last 30 Days";
-$lang["this_month"] = "This Month";
-$lang["last_month"] = "Last Month";
-$lang["next_month"] = "Next Month";
-$lang["next_year"] = "Next Year";
+$lang["last_7_days"] = "آخر 7 أيام";
+$lang["next_7_days"] = "الـ 7 أيام القادمة";
+$lang["last_30_days"] = "آخر 30 يومًا";
+$lang["this_month"] = "هذا الشهر";
+$lang["last_month"] = "الشهر الماضي";
+$lang["next_month"] = "الشهر القادم";
+$lang["next_year"] = "العام القادم";
 
-$lang["hold_projects"] = "Hold Projects";
-$lang["open_tasks"] = "Open Tasks";
-$lang["completed_tasks"] = "Completed Tasks";
+$lang["hold_projects"] = "المشاريع المعلقة";
+$lang["open_tasks"] = "المهام المفتوحة";
+$lang["completed_tasks"] = "المهام المكتملة";
 
-$lang["team_members_summary"] = "Team members summary";
-$lang["created_date_wise"] = "Created date wise";
-$lang["conversion_date_wise"] = "Conversion date wise";
+$lang["team_members_summary"] = "ملخص أعضاء الفريق";
+$lang["created_date_wise"] = "حسب تاريخ الإنشاء";
+$lang["conversion_date_wise"] = "حسب تاريخ التحويل";
 
-$lang["ticket_statistics"] = "Ticket Statistics";
+$lang["ticket_statistics"] = "إحصائيات التذاكر";
 
-$lang["can_activate_deactivate_team_members"] = "Can activate deactivate team members?";
-$lang["can_delete_team_members"] = "Can delete team members?";
+$lang["can_activate_deactivate_team_members"] = "هل يمكن تفعيل/إلغاء تفعيل أعضاء الفريق؟";
+$lang["can_delete_team_members"] = "هل يمكن حذف أعضاء الفريق؟";
 
-$lang["project_settings"] = "Project settings";
-$lang["project_status"] = "Project Status";
-$lang["add_project_status"] = "Add project status";
-$lang["mark_project_as"] = "Mark Project as";
+$lang["project_settings"] = "إعدادات المشروع";
+$lang["project_status"] = "حالة المشروع";
+$lang["add_project_status"] = "إضافة حالة مشروع";
+$lang["mark_project_as"] = "وضع علامة على المشروع كـ";
 
-$lang["status_language_key_recommendation_help_text"] = "Recommended to use any prefix like project_status_";
-$lang["edit_project_status"] = "Edit project status";
-$lang["delete_project_status"] = "Delete project status";
+$lang["status_language_key_recommendation_help_text"] = "يوصى باستخدام أي بادئة مثل project_status_";
+$lang["edit_project_status"] = "تعديل حالة المشروع";
+$lang["delete_project_status"] = "حذف حالة المشروع";
 
-$lang["open_project_status_recommendation_help_text"] = "You can change the text, but this status will be considered as initial open status.";
-$lang["completed_project_status_recommendation_help_text"] = "You can change the text, but this status will be considered as completed.";
+$lang["open_project_status_recommendation_help_text"] = "يمكنك تغيير النص، ولكن هذه الحالة ستعتبر حالة مفتوحة أولية.";
+$lang["completed_project_status_recommendation_help_text"] = "يمكنك تغيير النص، ولكن هذه الحالة ستعتبر حالة مكتملة.";
 
-$lang["full_width"] = "Full width";
-$lang["hide_topbar"] = "Hide topbar";
+$lang["full_width"] = "عرض كامل";
+$lang["hide_topbar"] = "إخفاء الشريط العلوي";
 
 /* Version 3.5.1 */
 
-$lang["enable_lock_state"] = "Enable lock state";
-$lang["invoice_lock_state_description"] = "Once you enable the lock state, the invoices can’t be edited after sending to client or changing the status.";
-$lang["estimate_lock_state_description"] = "Once you enable the lock state, the accepted estimates can’t be edited.";
-$lang["proposal_lock_state_description"] = "Once you enable the lock state, the accepted proposals can’t be edited.";
-$lang["contract_lock_state_description"] = "Once you enable the lock state, the accepted contracts can't be edited.";
+$lang["enable_lock_state"] = "تمكين حالة القفل";
+$lang["invoice_lock_state_description"] = "بمجرد تمكين حالة القفل، لا يمكن تعديل الفواتير بعد إرسالها إلى العميل أو تغيير الحالة.";
+$lang["estimate_lock_state_description"] = "بمجرد تمكين حالة القفل، لا يمكن تعديل العروض المقبولة.";
+$lang["proposal_lock_state_description"] = "بمجرد تمكين حالة القفل، لا يمكن تعديل المقترحات المقبولة.";
+$lang["contract_lock_state_description"] = "بمجرد تمكين حالة القفل، لا يمكن تعديل العقود المقبولة.";
 
 /* Version 3.6 */
 
-$lang["file_manager"] = "File manager";
+$lang["file_manager"] = "مدير الملفات";
 
-$lang["all_files"] = "All files";
-$lang["recent_uploads"] = "Recent uploads";
+$lang["all_files"] = "جميع الملفات";
+$lang["recent_uploads"] = "التحميلات الأخيرة";
 
-$lang["favorites"] = "Favorites";
-$lang["new_folder"] = "New folder";
-$lang["folder_details"] = "Folder details";
-$lang["file_details"] = "File details";
-$lang["manage_access"] = "Manage access";
-$lang["root_folder"] = "Home";
-$lang["authorized_team_members"] = "Authorized team members";
+$lang["favorites"] = "المفضلة";
+$lang["new_folder"] = "مجلد جديد";
+$lang["folder_details"] = "تفاصيل المجلد";
+$lang["file_details"] = "تفاصيل الملف";
+$lang["manage_access"] = "إدارة الوصول";
+$lang["root_folder"] = "الرئيسية";
+$lang["authorized_team_members"] = "أعضاء الفريق المصرح لهم";
 
-$lang["full_access"] = "Full access";
-$lang["full_access_placeholder"] = "Choose who can manage everything";
-$lang["upload_and_organize"] = "Upload & Organize";
-$lang["upload_only"] = "Upload only";
+$lang["full_access"] = "وصول كامل";
+$lang["full_access_placeholder"] = "اختر من يمكنه إدارة كل شيء";
+$lang["upload_and_organize"] = "تحميل وتنظيم";
+$lang["upload_only"] = "تحميل فقط";
 
-$lang["folder_permission_instruction"] = "This permission will be applicable to this folder and all of its subfolders.";
-$lang["all_clients"] = "All Clients";
+$lang["folder_permission_instruction"] = "هذا الإذن سيكون ساريًا على هذا المجلد وجميع مجلداته الفرعية.";
+$lang["all_clients"] = "جميع العملاء";
 
-$lang["select_a_file_to_view_details"] = "Select a file of folder to view its details";
-$lang["empty"] = "Empty";
-$lang["folder"] = "Folder";
-$lang["folders"] = "Folders";
-$lang["rename"] = "Rename";
-$lang["rename_folder"] = "Rename folder";
+$lang["select_a_file_to_view_details"] = "حدد ملفًا أو مجلدًا لعرض تفاصيله";
+$lang["empty"] = "فارغ";
+$lang["folder"] = "مجلد";
+$lang["folders"] = "مجلدات";
+$lang["rename"] = "إعادة تسمية";
+$lang["rename_folder"] = "إعادة تسمية المجلد";
 
-$lang["folder_delete_confirmation_message"] = "Are you sure you want to permanently delete this folder and all of the subfolders and files?";
-$lang["file_delete_confirmation_message"] = "Are you sure you want to permanently delete this file?";
-$lang["explore"] = "Explore";
-$lang["add_to_favorites"] = "Add to Favorites";
-$lang["remove_from_favorites"] = "Remove from Favorites";
-$lang["uploaded_at"] = "Uploaded at";
-$lang["created_at"] = "Created at";
-$lang["who_has_access"] = "How has access";
+$lang["folder_delete_confirmation_message"] = "هل أنت متأكد أنك تريد حذف هذا المجلد وجميع المجلدات الفرعية والملفات بشكل دائم؟";
+$lang["file_delete_confirmation_message"] = "هل أنت متأكد أنك تريد حذف هذا الملف بشكل دائم؟";
+$lang["explore"] = "استكشاف";
+$lang["add_to_favorites"] = "إضافة إلى المفضلة";
+$lang["remove_from_favorites"] = "إزالة من المفضلة";
+$lang["uploaded_at"] = "تم الرفع في";
+$lang["created_at"] = "تم الإنشاء في";
+$lang["who_has_access"] = "من لديه حق الوصول";
 
-$lang["search_folder_or_file"] = "Search folder or file";
-$lang["move"] = "Move";
-$lang["move_folder"] = "Move folder";
-$lang["move_file"] = "Move file";
+$lang["search_folder_or_file"] = "البحث عن مجلد أو ملف";
+$lang["move"] = "نقل";
+$lang["move_folder"] = "نقل مجلد";
+$lang["move_file"] = "نقل ملف";
 
-$lang["enable_audio_recording"] = "Enable audio recording";
-$lang["add_webm_file_format_to_enable_audio_recording"] = "Add webm file formate to enable audio recording.";
+$lang["enable_audio_recording"] = "تمكين تسجيل الصوت";
+$lang["add_webm_file_format_to_enable_audio_recording"] = "أضف تنسيق ملف webm لتمكين تسجيل الصوت.";
 
-$lang["reference"] = "Reference";
-$lang["link_copied"] = "Link copied!";
-$lang["recording"] = "Recording...";
+$lang["reference"] = "مرجع";
+$lang["link_copied"] = "تم نسخ الرابط!";
+$lang["recording"] = "تسجيل...";
 
-$lang["https_required"] = "HTTPS required.";
+$lang["https_required"] = "يتطلب HTTPS.";
 
-$lang["info"] = "Info";
-$lang["select_any_folder_for_move"] = "Select any folder for move.";
+$lang["info"] = "معلومات";
+$lang["select_any_folder_for_move"] = "حدد أي مجلد للنقل.";
 
-$lang["enable_background_image_for_pdf"] = "Enable background image for pdf";
-$lang["pdf_background_image"] = "Pdf background image (510x720)";
-$lang["set_background_only_on_first_page"] = "Set background only on 1st page";
-$lang["invoice_item_list_background_color"] = "Invoice item list background color";
+$lang["enable_background_image_for_pdf"] = "تمكين صورة الخلفية لملف PDF";
+$lang["pdf_background_image"] = "صورة خلفية PDF (510x720)";
+$lang["set_background_only_on_first_page"] = "تعيين الخلفية في الصفحة الأولى فقط";
+$lang["invoice_item_list_background_color"] = "لون خلفية قائمة بنود الفاتورة";
 
-$lang["logo"] = "Logo";
-$lang["company_info"] = "Company Info";
-$lang["change_invoice_logo"] = "Change invoice logo";
+$lang["logo"] = "الشعار";
+$lang["company_info"] = "معلومات الشركة";
+$lang["change_invoice_logo"] = "تغيير شعار الفاتورة";
 
-$lang["year"] = "Year";
-$lang["invoice_number_format"] = "Invoice number format";
-$lang["auto_increment_digits"] = "Auto increment %s Digits";
-$lang["year_based_on"] = "Year based on";
-$lang["reset_invoice_number_every_year"] = "Reset invoice number every year";
+$lang["year"] = "السنة";
+$lang["invoice_number_format"] = "تنسيق رقم الفاتورة";
+$lang["auto_increment_digits"] = "زيادة تلقائية %s أرقام";
+$lang["year_based_on"] = "السنة بناءً على";
+$lang["reset_invoice_number_every_year"] = "إعادة تعيين رقم الفاتورة كل عام";
 
-$lang["style"] = "Style";
+$lang["style"] = "النمط";
 
-$lang["attach_pdf"] = "Attach PDF";
-$lang["attachment_size_is_too_large"] = "Attachment size is too large. It can't be attached with this email.";
+$lang["attach_pdf"] = "إرفاق PDF";
+$lang["attachment_size_is_too_large"] = "حجم المرفق كبير جدًا. لا يمكن إرفاقه مع هذا البريد الإلكتروني.";
 
-$lang["files_list"] = "Files list";
+$lang["files_list"] = "قائمة الملفات";
 
-$lang["hide_fields_on_lead_embedded_form"] = "Hide fields from lead embedded forms";
-$lang["unspecified"] = "Unspecified";
+$lang["hide_fields_on_lead_embedded_form"] = "إخفاء الحقول من نماذج العملاء المحتملين المضمنة";
+$lang["unspecified"] = "غير محدد";
 
-$lang["import_team_members"] = "Import team members";
-$lang["import_team_member_error_name_field_required"] = "First name and last name is both required to add a team member.";
-$lang["import_team_member_error_job_title_field_required"] = "Job title field is required.";
-$lang["import_team_member_error_email_field_required"] = "Email field is required.";
+$lang["import_team_members"] = "استيراد أعضاء الفريق";
+$lang["import_team_member_error_name_field_required"] = "يجب إدخال الاسم الأول واسم العائلة لإضافة عضو فريق.";
+$lang["import_team_member_error_job_title_field_required"] = "حقل المسمى الوظيفي مطلوب.";
+$lang["import_team_member_error_email_field_required"] = "حقل البريد الإلكتروني مطلوب.";
 
-$lang["only_admin_users_can_set_the_admin_role"] = "Only admin users can set the Admin role.";
+$lang["only_admin_users_can_set_the_admin_role"] = "يمكن للمسؤولين فقط تعيين دور المسؤول.";
 
-$lang["import_projects"] = "Import projects";
-$lang["import_project_error_title_field_required"] = "Project title field is required.";
-$lang["import_project_error_project_type_field_required"] = "Project type field is required.";
-$lang["import_project_error_client_field_required"] = "Since it's client project, client field is required.";
-$lang["import_project_error_client_name"] = "Client name is invalid.";
-$lang["import_project_error_project_status"] = "Project status is invalid.";
+$lang["import_projects"] = "استيراد المشاريع";
+$lang["import_project_error_title_field_required"] = "حقل عنوان المشروع مطلوب.";
+$lang["import_project_error_project_type_field_required"] = "حقل نوع المشروع مطلوب.";
+$lang["import_project_error_client_field_required"] = "بما أنه مشروع عميل، حقل العميل مطلوب.";
+$lang["import_project_error_client_name"] = "اسم العميل غير صالح.";
+$lang["import_project_error_project_status"] = "حالة المشروع غير صالحة.";
 
-$lang["import_contacts"] = "Import contacts";
-$lang["import_contact_error_name_field_required"] = "First name and last name are both required to add a contact.";
-$lang["import_contact__error_client_field_required"] = "Client field is required.";
-$lang["import_contact_error_client_name"] = "Client name is invalid.";
-$lang["import_gender_is_invalid"] = "Gender is invalid.";
+$lang["import_contacts"] = "استيراد جهات الاتصال";
+$lang["import_contact_error_name_field_required"] = "الاسم الأول واسم العائلة كلاهما مطلوبان لإضافة جهة اتصال.";
+$lang["import_contact__error_client_field_required"] = "حقل العميل مطلوب.";
+$lang["import_contact_error_client_name"] = "اسم العميل غير صالح.";
+$lang["import_gender_is_invalid"] = "الجنس غير صالح.";
 
-$lang["import_error_name_field_required"] = "Name field is required.";
-$lang["import_error_type_field_required"] = "Type field is required.";
-$lang["import_error_invalid_type"] = "Invalid type.";
+$lang["import_error_name_field_required"] = "حقل الاسم مطلوب.";
+$lang["import_error_type_field_required"] = "حقل النوع مطلوب.";
+$lang["import_error_invalid_type"] = "نوع غير صالح.";
 
-$lang["can_access_everything"] = "Can access everything";
-$lang["user_permissions"] = "User permissions";
-$lang["can_access_only"] = "Can access only";
+$lang["can_access_everything"] = "يمكن الوصول إلى كل شيء";
+$lang["user_permissions"] = "أذونات المستخدم";
+$lang["can_access_only"] = "يمكن الوصول فقط";
 
-$lang["email_seen_at"] = "Email seen at";
-$lang["email_seen_count"] = "Email seen count";
+$lang["email_seen_at"] = "البريد الإلكتروني شوهد في";
+$lang["email_seen_count"] = "عدد مرات مشاهدة البريد الإلكتروني";
 
-$lang["last_preview_seen"] = "Last preview seen";
-$lang["last_email_seen"] = "Last email seen";
+$lang["last_preview_seen"] = "آخر معاينة شوهدت";
+$lang["last_email_seen"] = "آخر بريد إلكتروني شوهد";
 
-$lang["subscription_cancelled"] = "Subscription cancelled";
-$lang["notification_subscription_cancelled"] = "Cancelled a subscription";
+$lang["subscription_cancelled"] = "تم إلغاء الاشتراك";
+$lang["notification_subscription_cancelled"] = "تم إلغاء اشتراك";
 
-$lang["enable_comments_on_proposals"] = "Enable comments on proposals";
-$lang["show_most_recent_proposal_comments_at_the_top"] = "Show most recent proposal comments at the top";
-$lang["proposal_commented"] = "Proposal commented";
-$lang["proposal_creator"] = "Proposal creator";
-$lang["notification_proposal_commented"] = "Commented on an proposal.";
+$lang["enable_comments_on_proposals"] = "تمكين التعليقات على المقترحات";
+$lang["show_most_recent_proposal_comments_at_the_top"] = "إظهار أحدث تعليقات المقترحات في الأعلى";
+$lang["proposal_commented"] = "تم التعليق على المقترح";
+$lang["proposal_creator"] = "منشئ المقترح";
+$lang["notification_proposal_commented"] = "تم التعليق على مقترح.";
 
-$lang["can_upload_and_edit_files"] = "Can upload and edit files";
-$lang["can_comment_on_projects"] = "Can comment on projects";
-$lang["can_view_files"] = "Can view files";
+$lang["can_upload_and_edit_files"] = "يمكن تحميل وتعديل الملفات";
+$lang["can_comment_on_projects"] = "يمكن التعليق على المشاريع";
+$lang["can_view_files"] = "يمكن عرض الملفات";
 
-$lang["default_permissions_for_non_primary_contact"] = "Default permissions for non-primary contact";
-$lang["primary_contact_will_get_full_permission_message"] = "Note: The primary contact will get full permission.";
-$lang["permission_is_required"] = "Permission is required.";
-$lang["make_primary_contact_help_message"] = "The existing primary contact will still have full access. You can change the permission anytime.";
-$lang["primary_contact_can_manage_the_permission_of_other_contacts"] = "Primary contact can manage the permission of other contacts.";
+$lang["default_permissions_for_non_primary_contact"] = "الأذونات الافتراضية لجهة الاتصال غير الأساسية";
+$lang["primary_contact_will_get_full_permission_message"] = "ملاحظة: ستتمتع جهة الاتصال الأساسية بإذن كامل.";
+$lang["permission_is_required"] = "الإذن مطلوب.";
+$lang["make_primary_contact_help_message"] = "ستظل جهة الاتصال الأساسية الحالية تتمتع بوصول كامل. يمكنك تغيير الإذن في أي وقت.";
+$lang["primary_contact_can_manage_the_permission_of_other_contacts"] = "يمكن لجهة الاتصال الأساسية إدارة إذن جهات الاتصال الأخرى.";
 
 /* Version 3.7 */
 
-$lang["dynamic"] = "Dynamic";
-$lang["select_range"] = "Select range";
+$lang["dynamic"] = "ديناميكي";
+$lang["select_range"] = "تحديد النطاق";
 
-$lang["proposal_preview_opened"] = "Proposal preview opened";
-$lang["notification_proposal_preview_opened"] = "Opened a proposal preview.";
-$lang["proposal_email_opened"] = "Proposal email opened";
-$lang["notification_proposal_email_opened"] = "Opened a proposal email.";
+$lang["proposal_preview_opened"] = "تم فتح معاينة المقترح";
+$lang["notification_proposal_preview_opened"] = "تم فتح معاينة مقترح.";
+$lang["proposal_email_opened"] = "تم فتح بريد المقترح الإلكتروني";
+$lang["notification_proposal_email_opened"] = "تم فتح بريد مقترح إلكتروني.";
 
-$lang["create_contract"] = "Create Contract";
+$lang["create_contract"] = "إنشاء عقد";
 
-$lang["create_as_a_non_subtask"] = "Create as a non-subtask";
-$lang["install_this_app"] = "Install this app.";
-$lang["app_color"] = "App color";
+$lang["create_as_a_non_subtask"] = "إنشاء كمهمة غير فرعية";
+$lang["install_this_app"] = "تثبيت هذا التطبيق.";
+$lang["app_color"] = "لون التطبيق";
 
-$lang["skip"] = "Skip";
+$lang["skip"] = "تخطي";
 
-$lang["self_improvements"] = "Self Improvements";
-$lang["business_growth"] = "Business Growth";
-$lang["sales_management"] = "Sales Management";
-$lang["customer_support"] = "Customer Support";
-$lang["team_management"] = "Team Management";
-$lang["collaboration"] = "Collaboration";
+$lang["self_improvements"] = "تحسينات ذاتية";
+$lang["business_growth"] = "نمو الأعمال";
+$lang["sales_management"] = "إدارة المبيعات";
+$lang["customer_support"] = "دعم العملاء";
+$lang["team_management"] = "إدارة الفريق";
+$lang["collaboration"] = "التعاون";
 
-$lang["send_first_reminder_before"] = "Send 1st reminder before";
-$lang["send_second_reminder_before"] = "Send 2nd reminder before";
-$lang["subscription_renewal_reminder"] = "Subscription renewal reminder";
-$lang["notification_subscription_renewal_reminder"] = "Subscription renewal reminder";
+$lang["send_first_reminder_before"] = "إرسال التذكير الأول قبل";
+$lang["send_second_reminder_before"] = "إرسال التذكير الثاني قبل";
+$lang["subscription_renewal_reminder"] = "تذكير بتجديد الاشتراك";
+$lang["notification_subscription_renewal_reminder"] = "تذكير بتجديد الاشتراك";
 
-$lang["enable_tinymce"] = "Enable TinyMCE";
-$lang["tinymce_api_key"] = "TinyMCE API key";
+$lang["enable_tinymce"] = "تمكين TinyMCE";
+$lang["tinymce_api_key"] = "مفتاح API الخاص بـ TinyMCE";
 
-$lang["protocol"] = "Protocol";
-$lang["re_captcha_suspicious_activity"] = "The reCAPTCHA detected suspicious activity.";
+$lang["protocol"] = "البروتوكول";
+$lang["re_captcha_suspicious_activity"] = "اكتشف reCAPTCHA نشاطًا مشبوهًا.";
 
-$lang["all_contacts_of_the_client"] = "All contacts of the client";
-$lang["specific_contacts_of_the_client"] = "Specific contacts of the client";
+$lang["all_contacts_of_the_client"] = "جميع جهات اتصال العميل";
+$lang["specific_contacts_of_the_client"] = "جهات اتصال محددة للعميل";
 
-$lang["please_do_not_use_duplicate_variables"] = "Please don't use duplicate variables.";
-$lang["please_do_not_use_invalid_special_character"] = "Please don't use invalid special character.";
-$lang["please_use_any_serial"] = "Please use any serial.";
+$lang["please_do_not_use_duplicate_variables"] = "الرجاء عدم استخدام متغيرات مكررة.";
+$lang["please_do_not_use_invalid_special_character"] = "الرجاء عدم استخدام حرف خاص غير صالح.";
+$lang["please_use_any_serial"] = "الرجاء استخدام أي تسلسل.";
 
-$lang["add_automation"] = "Add automation";
-$lang["edit_automation"] = "Edit automation";
+$lang["add_automation"] = "إضافة أتمتة";
+$lang["edit_automation"] = "تعديل الأتمتة";
 
-$lang["automations"] = "Automations";
+$lang["automations"] = "الأتمتات";
 
-$lang["match_any"] = "Match any";
-$lang["match_all"] = "Match all";
-$lang["email_address"] = "Email address";
-$lang["email_subject"] = "Email subject";
-$lang["email_content"] = "Email content";
+$lang["match_any"] = "مطابقة أي";
+$lang["match_all"] = "مطابقة الكل";
+$lang["email_address"] = "عنوان البريد الإلكتروني";
+$lang["email_subject"] = "موضوع البريد الإلكتروني";
+$lang["email_content"] = "محتوى البريد الإلكتروني";
 
-$lang["imap_email_received"] = "IMAP email received";
-$lang["new_ticket_created_by_imap_email"] = "New ticket created by IMAP email";
+$lang["imap_email_received"] = "تم استلام بريد إلكتروني عبر IMAP";
+$lang["new_ticket_created_by_imap_email"] = "تم إنشاء تذكرة جديدة بواسطة بريد إلكتروني IMAP";
 
-$lang["conditions"] = "Conditions";
-$lang["block_ticket_creation"] = "Block ticket creation";
-$lang["if"] = "If";
+$lang["conditions"] = "الشروط";
+$lang["block_ticket_creation"] = "حظر إنشاء التذاكر";
+$lang["if"] = "إذا";
 
-$lang["small_letter_field"] = "______ field";
-$lang["small_letter_condition_is_equal"] = "is equal to";
-$lang["small_letter_condition_is_not_equal"] = "is not equal to";
-$lang["small_letter_condition_is_in_list"] = "is in list";
-$lang["small_letter_condition_is_not_in_list"] = "is not in list";
+$lang["small_letter_field"] = "حقل ______";
+$lang["small_letter_condition_is_equal"] = "يساوي";
+$lang["small_letter_condition_is_not_equal"] = "لا يساوي";
+$lang["small_letter_condition_is_in_list"] = "في القائمة";
+$lang["small_letter_condition_is_not_in_list"] = "ليس في القائمة";
 
-$lang["small_letter_condition_is_contains"] = "is contains";
-$lang["small_letter_condition_is_not_contains"] = "is not contains";
-$lang["small_letter_condition_is_contains_in_list"] = "is contains in list";
-$lang["small_letter_condition_is_not_contains_in_list"] = "is not contains in list";
-$lang["small_letter_something"] = "something";
-$lang["small_letter_is_something"] = "is something";
-$lang["small_letter_and"] = "and";
-$lang["small_letter_or"] = "or";
+$lang["small_letter_condition_is_contains"] = "يحتوي على";
+$lang["small_letter_condition_is_not_contains"] = "لا يحتوي على";
+$lang["small_letter_condition_is_contains_in_list"] = "يحتوي في القائمة";
+$lang["small_letter_condition_is_not_contains_in_list"] = "لا يحتوي في القائمة";
+$lang["small_letter_something"] = "شيء";
+$lang["small_letter_is_something"] = "هو شيء";
+$lang["small_letter_and"] = "و";
+$lang["small_letter_or"] = "أو";
 
-$lang["select_placeholder"] = "Select...";
-$lang["select_placeholder_type_and_press_enter"] = "Type and press Enter";
+$lang["select_placeholder"] = "تحديد...";
+$lang["select_placeholder_type_and_press_enter"] = "اكتب واضغط Enter";
 
-$lang["do_something"] = "Do something...";
-$lang["do_not_create_ticket"] = "Do not create ticket";
-$lang["set_field_"] = "Set";
-$lang["please_input_all_required_fields"] = "Please input all required fields.";
-$lang["grid"] = "Grid";
+$lang["do_something"] = "افعل شيئًا...";
+$lang["do_not_create_ticket"] = "لا تنشئ تذكرة";
+$lang["set_field_"] = "تعيين";
+$lang["please_input_all_required_fields"] = "الرجاء إدخال جميع الحقول المطلوبة.";
+$lang["grid"] = "شبكة";
 
-$lang["disable_pdf_for_clients"] = "Disable PDF for clients";
+$lang["disable_pdf_for_clients"] = "تعطيل PDF للعملاء";
 
-$lang["select_specific"] = "Select specific";
-$lang["clear_selection"] = "Clear selection";
-$lang["download_selected_items"] = "Download selected items";
-$lang["delete_selected_items"] = "Delete selected items";
-$lang["year_or_month_based_on"] = "Year/month based on";
+$lang["select_specific"] = "تحديد محدد";
+$lang["clear_selection"] = "مسح التحديد";
+$lang["download_selected_items"] = "تنزيل العناصر المحددة";
+$lang["delete_selected_items"] = "حذف العناصر المحددة";
+$lang["year_or_month_based_on"] = "السنة/الشهر بناءً على";
 
-$lang["none"] = "None";
-$lang["trigger_manually"] = "Trigger Manually";
+$lang["none"] = "لا شيء";
+$lang["trigger_manually"] = "تشغيل يدويًا";
 
 /* Version 3.8 */
 
-$lang["field_type_multiple_choice"] = "Multiple Choice";
-$lang["field_type_checkboxes"] = "Checkboxes";
+$lang["field_type_multiple_choice"] = "اختيار متعدد";
+$lang["field_type_checkboxes"] = "خانة اختيار";
 
-$lang["insert_into_editor"] = "Insert into editor";
-$lang["just_now"] = "Just now";
-$lang["minute_ago"] = "minute ago";
-$lang["minutes_ago"] = "minutes ago";
-$lang["hour_ago"] = "hour ago";
-$lang["hours_ago"] = "hours ago";
-$lang["day_ago"] = "day ago";
-$lang["days_ago"] = "days ago";
-$lang["month_ago"] = "month ago";
-$lang["months_ago"] = "months ago";
-$lang["year_ago"] = "year ago";
-$lang["years_ago"] = "years ago";
+$lang["insert_into_editor"] = "إدراج في المحرر";
+$lang["just_now"] = "الآن";
+$lang["minute_ago"] = "قبل دقيقة";
+$lang["minutes_ago"] = "قبل دقائق";
+$lang["hour_ago"] = "قبل ساعة";
+$lang["hours_ago"] = "قبل ساعات";
+$lang["day_ago"] = "قبل يوم";
+$lang["days_ago"] = "قبل أيام";
+$lang["month_ago"] = "قبل شهر";
+$lang["months_ago"] = "قبل أشهر";
+$lang["year_ago"] = "قبل سنة";
+$lang["years_ago"] = "قبل سنوات";
 
-$lang["support_info"] = "Support info";
-$lang["in_messages"] = "In messages";
-$lang["out_messages"] = "Out messags";
+$lang["support_info"] = "معلومات الدعم";
+$lang["in_messages"] = "في الرسائل";
+$lang["out_messages"] = "الرسائل الصادرة";
 
-$lang["ticket_tasks"] = "Ticket tasks";
-$lang["has_number_of_tickets_tickets"] = "Has %s tickets";
+$lang["ticket_tasks"] = "مهام التذاكر";
+$lang["has_number_of_tickets_tickets"] = "لديه %s تذكرة";
 
-$lang["signup_and_login"] = "Signup & Login";
-$lang["ui"] = "UI";
-$lang["projects_and_tasks"] = "Projects & Tasks";
-$lang["others"] = "Others";
+$lang["signup_and_login"] = "التسجيل وتسجيل الدخول";
+$lang["ui"] = "واجهة المستخدم";
+$lang["projects_and_tasks"] = "المشاريع والمهام";
+$lang["others"] = "أخرى";
 
-$lang["show_the_status_checkbox_in_tasks_list"] = "Show the status checkbox in tasks list";
+$lang["show_the_status_checkbox_in_tasks_list"] = "إظهار مربع اختيار الحالة في قائمة المهام";
 
-$lang["pwa_install_message_for_iphone"] = "Click on %s icon, 'Add to Home Screen' from the browser menu and add this app to your home screen for easy access.";
-$lang["got_it"] = "Got it!";
+$lang["pwa_install_message_for_iphone"] = "انقر على أيقونة %s، 'إضافة إلى الشاشة الرئيسية' من قائمة المتصفح وأضف هذا التطبيق إلى شاشتك الرئيسية لسهولة الوصول.";
+$lang["got_it"] = "فهمت!";
 
-$lang["empty_comment_cannot_be_saved"] = "Empty comment cannot be saved.";
+$lang["empty_comment_cannot_be_saved"] = "لا يمكن حفظ تعليق فارغ.";
 
-$lang["short_ticket_templates"] = "Templates";
+$lang["short_ticket_templates"] = "القوالب";
 
 /* Version 3.8.2 */
 
-$lang["sortable"] = "Sortable";
-$lang["total_hours"] = "Total hours";
-$lang["support_only_project_related_tasks_globally_label"] = "Create only the project related tasks from the global task creation modal";
+$lang["sortable"] = "قابل للفرز";
+$lang["total_hours"] = "إجمالي الساعات";
+$lang["support_only_project_related_tasks_globally_label"] = "إنشاء المهام المتعلقة بالمشروع فقط من نافذة إنشاء المهام العامة";
 
-$lang["name_and_company_name_error_message"] = "First name, last name, and company name can't be hidden at a time.";
+$lang["name_and_company_name_error_message"] = "لا يمكن إخفاء الاسم الأول واسم العائلة واسم الشركة في نفس الوقت.";
 
 /* Version 3.9 */
 
-$lang["e_invoice"] = "e-Invoice";
-$lang["enable_e_invoice"] = "Enable e-Invoice";
-$lang["e_invoice_templates"] = "e-Invoice Templates";
-$lang["e_invoice_template"] = "e-Invoice template";
-$lang["e_invoice_template_title"] = "e-Invoice template title";
-$lang["edit_e_invoice_template"] = "Edit e-Invoice template";
-$lang["delete_e_invoice_template"] = "Delete e-Invoice template";
-$lang["default_e_invoice_template"] = "Default e-Invoice template";
-$lang["default_e_invoice_template_for_credit_note"] = "Default e-Invoice template for credit note";
+$lang["e_invoice"] = "الفاتورة الإلكترونية";
+$lang["enable_e_invoice"] = "تمكين الفاتورة الإلكترونية";
+$lang["e_invoice_templates"] = "قوالب الفاتورة الإلكترونية";
+$lang["e_invoice_template"] = "قالب الفاتورة الإلكترونية";
+$lang["e_invoice_template_title"] = "عنوان قالب الفاتورة الإلكترونية";
+$lang["edit_e_invoice_template"] = "تعديل قالب الفاتورة الإلكترونية";
+$lang["delete_e_invoice_template"] = "حذف قالب الفاتورة الإلكترونية";
+$lang["default_e_invoice_template"] = "قالب الفاتورة الإلكترونية الافتراضي";
+$lang["default_e_invoice_template_for_credit_note"] = "قالب الفاتورة الإلكترونية الافتراضي لإشعار الدائن";
 
-$lang["company_or_supplier_or_seller"] = "Company (Supplier/Seller)";
-$lang["client_or_customer_or_buyer"] = "Client (Customer/Buyer)";
-$lang["template_variable_name"] = "Template variable name";
+$lang["company_or_supplier_or_seller"] = "الشركة (المورد/البائع)";
+$lang["client_or_customer_or_buyer"] = "العميل (الزبون/المشتري)";
+$lang["template_variable_name"] = "اسم متغير القالب";
 
-$lang["e_invoice_template_custom_field_variable_info"] = "If you are looking for more variables, please add them in the related custom field.";
-$lang["send_e_invoice_attachment_with_email"] = "Send e-Invoice attachment with email";
+$lang["e_invoice_template_custom_field_variable_info"] = "إذا كنت تبحث عن المزيد من المتغيرات، يرجى إضافتها في الحقل المخصص ذي الصلة.";
+$lang["send_e_invoice_attachment_with_email"] = "إرسال مرفق الفاتورة الإلكترونية مع البريد الإلكتروني";
 
-$lang["validate_and_save"] = "Validate & Save";
-$lang["copied"] = "Copied!";
-$lang["undefined_variables"] = "Undefined variables";
+$lang["validate_and_save"] = "التحقق والحفظ";
+$lang["copied"] = "تم النسخ!";
+$lang["undefined_variables"] = "متغيرات غير معرفة";
 
-$lang["related_articles"] = "Related articles";
-$lang["show_related_articles_by_labels"] = "Show related articles by labels";
-$lang["banner_image"] = "Banner image";
-$lang["banner_url"] = "Banner URL";
+$lang["related_articles"] = "مقالات ذات صلة";
+$lang["show_related_articles_by_labels"] = "عرض المقالات ذات الصلة حسب التصنيفات";
+$lang["banner_image"] = "صورة البانر";
+$lang["banner_url"] = "عنوان URL للبانر";
 
-$lang["invoice_info"] = "Invoice info";
-$lang["you_can_validate_the_xml_file_before_sending_it"] = "You can validate the XML file before sending it.";
-$lang["unlink_xml_attachment"] = "Unlink XML attachment";
-$lang["unattached"] = "Unattached";
+$lang["invoice_info"] = "معلومات الفاتورة";
+$lang["you_can_validate_the_xml_file_before_sending_it"] = "يمكنك التحقق من ملف XML قبل إرساله.";
+$lang["unlink_xml_attachment"] = "إلغاء ربط مرفق XML";
+$lang["unattached"] = "غير مرفق";
 
-$lang["enable_invoice_id_editing"] = "Enable invoice ID editing";
+$lang["enable_invoice_id_editing"] = "تمكين تعديل معرف الفاتورة";
 
-$lang["yes_all_expenses"] = "Yes, all expenses";
-$lang["can_manage_only_own_created_expenses"] = "Can manage only own created expenses";
+$lang["yes_all_expenses"] = "نعم، جميع المصاريف";
+$lang["can_manage_only_own_created_expenses"] = "يمكن إدارة المصاريف التي تم إنشاؤها فقط";
 
-$lang["set_invoice_permissions"] = "Set invoice permissions";
-$lang["can_not_access_invoices"] = "Can’t access invoices";
-$lang["can_manage_all_invoices"] = "Can manage all invoices";
-$lang["can_view_all_invoices"] = "Can view all invoices";
-$lang["can_manage_own_client_invoices"] = "Can manage own client’s invoices";
-$lang["can_manage_own_client_invoices_except_delete"] = "Can manage own client’s invoices (Except delete)";
-$lang["can_view_own_client_invoices"] = "Can view own client’s invoices";
-$lang["can_manage_only_own_created_invoices"] = "Can manage only own created invoices";
-$lang["can_manage_only_own_created_invoices_except_delete"] = "Can manage only own created invoices (Except delete)";
+$lang["set_invoice_permissions"] = "تعيين أذونات الفاتورة";
+$lang["can_not_access_invoices"] = "لا يمكن الوصول إلى الفواتير";
+$lang["can_manage_all_invoices"] = "يمكن إدارة جميع الفواتير";
+$lang["can_view_all_invoices"] = "يمكن عرض جميع الفواتير";
+$lang["can_manage_own_client_invoices"] = "يمكن إدارة فواتير عميلي الخاصة";
+$lang["can_manage_own_client_invoices_except_delete"] = "يمكن إدارة فواتير عميلي الخاصة (باستثناء الحذف)";
+$lang["can_view_own_client_invoices"] = "يمكن عرض فواتير عميلي الخاصة";
+$lang["can_manage_only_own_created_invoices"] = "يمكن إدارة الفواتير التي تم إنشاؤها فقط";
+$lang["can_manage_only_own_created_invoices_except_delete"] = "يمكن إدارة الفواتير التي تم إنشاؤها فقط (باستثناء الحذف)";
 
-$lang["companies"] = "Companies";
-$lang["panel"] = "Panel";
+$lang["companies"] = "الشركات";
+$lang["panel"] = "لوحة التحكم";
 
-$lang["online_payment_disabled"] = "Online payment is disabled.";
-$lang["contact_info"] = "Contact Info";
-$lang["not_found"] = "Not found.";
-$lang["last_online"] = "Last online";
+$lang["online_payment_disabled"] = "الدفع عبر الإنترنت معطل.";
+$lang["contact_info"] = "معلومات الاتصال";
+$lang["not_found"] = "لم يتم العثور.";
+$lang["last_online"] = "آخر تواجد على الإنترنت";
 
-$lang["proposal_info"] = "Proposal info";
-$lang["proposal_items"] = "Proposal items";
+$lang["proposal_info"] = "معلومات المقترح";
+$lang["proposal_items"] = "عناصر المقترح";
 
-$lang["enable_client_wallet"] = "Enable client wallet";
-$lang["auto_balance_invoice_payments"] = "Auto balance invoice payments";
+$lang["enable_client_wallet"] = "تمكين محفظة العميل";
+$lang["auto_balance_invoice_payments"] = "موازنة دفعات الفواتير تلقائيًا";
 
-$lang["client_wallet"] = "Client wallet";
-$lang["add_payment"] = "Add payment";
-$lang["edit_payment"] = "Edit payment";
+$lang["client_wallet"] = "محفظة العميل";
+$lang["add_payment"] = "إضافة دفعة";
+$lang["edit_payment"] = "تعديل الدفعة";
 
-$lang["insufficient_balance_in_client_wallet"] = "Insufficient balance in client wallet.";
-$lang["received_payments"] = "Received payments";
-$lang["allocated_payments"] = "Allocated payments";
-$lang["balance"] = "Balance";
-$lang["wallet"] = "Wallet";
-$lang["added_by"] = "Added by";
-$lang["account_statement"] = "Account Statement";
-$lang["period"] = "Period";
-$lang["statement"] = "Statement";
-$lang["opening_balance"] = "Opening balance";
-$lang["generate_reports_based_on"] = "Generate reports based on";
-$lang["all_time"] = "All time";
-$lang["hide_team_members_list_from_dropdowns"] = "Hide team members list from dropdowns?";
+$lang["insufficient_balance_in_client_wallet"] = "رصيد غير كافٍ في محفظة العميل.";
+$lang["received_payments"] = "الدفعات المستلمة";
+$lang["allocated_payments"] = "الدفعات المخصصة";
+$lang["balance"] = "الرصيد";
+$lang["wallet"] = "المحفظة";
+$lang["added_by"] = "أضيف بواسطة";
+$lang["account_statement"] = "كشف الحساب";
+$lang["period"] = "الفترة";
+$lang["statement"] = "الكشف";
+$lang["opening_balance"] = "الرصيد الافتتاحي";
+$lang["generate_reports_based_on"] = "إنشاء تقارير بناءً على";
+$lang["all_time"] = "كل الوقت";
+$lang["hide_team_members_list_from_dropdowns"] = "إخفاء قائمة أعضاء الفريق من القوائم المنسدلة؟";
 
 return $lang;
