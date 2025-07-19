@@ -1828,9 +1828,9 @@ $lang["ticket_submission_message"] = "تم إرسال تذكرتك بنجاح!";
 $lang["your_email"] = "بريدك الالكتروني";
 $lang["your_name"] = "اسمك";
 
-$lang["item_categories"] = "أقسام المنتجات";
-$lang["edit_items_category"] = "تحرير قسم المنتجات";
-$lang["delete_items_category"] = "حذف قسم المنتجات";
+$lang["item_categories"] = "فئات العناصر";
+$lang["edit_items_category"] = "تحرير قسم العناصر";
+$lang["delete_items_category"] = "حذف قسم العناصر";
 
 $lang["create_recurring_tasks_before"] = "إنشاء مهام متكررة من قبل";
 $lang["create_new_order"] = "إنشاء طلب جديد";
